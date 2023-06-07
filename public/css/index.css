@@ -153,7 +153,7 @@ li:first-child {
 }
 
 /* 3-10 */
-.lesson-three-task-ten ::first-line {
+.lesson-three-task-ten::first-line {
   background: yellow;
 }
 
